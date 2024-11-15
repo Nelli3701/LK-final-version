@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Прямые",
+        "img": "img/categories/pryamoy1.png",
+        "hoverImg": "img/categories/pryamoy2.png"
+    },
+    {
+        "name": "Угловые",
+        "img": "img/categories/uglovoy1.png",
+        "hoverImg": "img/categories/uglovoy2.png"
+    },
+    {
+        "name": "П-образные",
+        "img": "img/categories/p-obrazny1.png",
+        "hoverImg": "img/categories/p-obrazny2.png"
+    },
+    {
+        "name": "С островом",
+        "img": "img/categories/ostrov1.png",
+        "hoverImg": "img/categories/ostrov2.png"
+    }
+]

@@ -1,0 +1,25 @@
+[
+        {
+            "tab": "Фасады",
+            "items": [
+                {"name": "МДФ", "image": "img/materials/fasad-mdf1.png", "hoverImg": "img/materials/fasad-mdf2.png"},
+                {"name": "ЛДСП", "image": "img/materials/fasad-ldsp1.png", "hoverImg": "img/materials/fasad-ldsp2.png"}
+            ]
+        },
+        {
+            "tab": "Столешница",
+            "items": [
+                {"name": "МДФ", "image": "img/materials/stol-mdf1.png", "hoverImg": "img/materials/stol-mdf2.png"},
+                {"name": "ЛДСП", "image": "img/materials/stol-ldsp1.png", "hoverImg": "img/materials/stol-ldsp2.png"}
+            ]
+        },
+        {
+            "tab": "Фурнитура",
+            "items": [
+                {"name": "Blum (Австрия)", "image": "img/accessories/1.png", "hoverImg": "img/accessories/2.png"},
+                {"name": "Hettich (Германия) ", "image": "img/accessories/3.png", "hoverImg": "img/accessories/4.png"},
+                {"name": "Boyard (Россия)", "image": "img/accessories/5.png", "hoverImg": "img/accessories/6.png"},
+                {"name": "GTV (Китай)", "image": "img/accessories/7.png", "hoverImg": "img/accessories/8.png"}
+            ]
+        }
+    ]
